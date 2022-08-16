@@ -10,3 +10,11 @@ acima.
 
 # Saída
 O arquivo de saída deve conter a mensagem "Total: R$ " seguido pelo valor a ser pago, com 2 casas após o ponto decimal.
+
+# Exemplo de Entrada 
+3 
+
+2 
+# Exemplo de Saída
+
+Total: R$ 10.00
