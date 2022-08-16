@@ -5,9 +5,13 @@ calcule e mostre o valor da conta a pagar
 
 # Codigo   Especificação     Preço
 1          Cachorro Quente   RS 4.00
+
 2          X-Salada          RS 4.50
+
 3          X-bacon           RS 5.00
+
 4          Torrada Simples   RS 2.00
+
 5          Refrigerante      RS 1.50
 
 # Entrada
